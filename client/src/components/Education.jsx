@@ -17,7 +17,7 @@ export default function Education() {
         <div className="education2">
           <h3>Centennial College</h3>
           <h4>Diploma in Software Engineering Technologies</h4>
-          <p>In-Progress</p>
+          <p>2024 - Present (Expected Completion: 2028)</p>
         </div>
       </div>
 
